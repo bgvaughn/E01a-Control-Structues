@@ -1,84 +1,100 @@
 Open main1.py. Before running it, what do you expect this program to do? 
-I honestly have no clue
+I honestly have no clue.
+
 Now right click on the window and select “Run Python File in Terminal”. Click in the bottom panel, and answer the question. Describe what happened. 
+Question answered.
 
 What do you think the program did with what you typed?
+nothing because it was just a question.
 
-
-
-Open main2.py. Before running it, describe how this is different than main1.py. 
+Open main2.py. Before running it, describe how this is different than main1.py.
+This is different because of the input and print sections that are present. 
 
 What do you think the color = input() will do? 
+This will change the color of something.
 
 Run the program in the terminal and answer the question. Did the program do what you expected?
-
-
+No it did not.
 
 Open main3.py. Before running it, describe how this is different than main2.py. 
+It has a second print option and changes to be made.
 
-What is happening on lines 11–14? 
+What is happening on lines 11–14?
+its adding more steps for the program to run. 
 
 Why are lines 12 and 14 indented? 
+to make sure we know they are important.
 
-Run the program and answer the question. What happens if you don’t capitalize Red? 
+Run the program and answer the question. What happens if you don’t capitalize Red?
+it can run the program again. 
 
 What does this tell you about "color"?
-
-
+it is linked to the name of the file.
 
 Open main4.py. Before running it, describe how this is different than main2.py. 
+This one will allow you to run it no matter which Red or red you have.
 
-What problem is this trying to solve? 
+What problem is this trying to solve?
+which red can be used. 
 
 Run the program and answer the question. What happens if you use some other capitalization scheme (i.e., “RED” or “reD“)?
-
-
+It still turns the title red.
 
 Open main5.py. What do you expect line 11 to do? 
+To turn the bottom of something red.
 
-What problem is it trying to solve? 
+What problem is it trying to solve?
+Im still lost i cant find what it is changing. 
 
 Run the program and answer the question. What happens if you add spaces before or after the word (i.e., “  RED  “ or “ red”)?
-
-
+it does not have an error now.
 
 Open main6.py. How is line 11 different than main5.py? 
+it added the .strip to the bracket set.
 
-What would you guess .strip() is doing? 
+What would you guess .strip() is doing?
+Taking away somthing.
 
 Run the program and answer the question. Is there another way of writing “red” that will break this logic?
-
-
+No it does not matter the way you input red.
 
 Open main7.py. Before running this program, how do you expect this to be different than main6.py? 
+It added lines 14 and 15 which is the elif.
 
 What is the purpose of line 11? 
+To make sure the lower half gets color taken away from it.
 
 Run the program and answer the question.
+I ran the program.
 
-
-
-Open main8.py. What is the purpose of line 11? 
+Open main8.py. What is the purpose of line 11?
+To change other aspects of the txt while it is a certain color.
 
 Why are lines 12–19 indented? 
+So that it does undermind the comands. 
 
 Run the program. What would happen if line 12 were moved before line 11 (and no longer indented)? 
+The same outcome happens everytime.
 
 Make that change and run the program again. To end any Python program, you can type ctrl-c.
+Program has been ran.
 
+Open main9.py. What is happening on line 12?
+to count the main commands of the color option.
 
-
-Open main9.py. What is happening on line 12? 
-
-What is the purpose of “count”? 
+What is the purpose of “count”?
+To keep track of all the changes away from the main command. 
 
 What is happening on line 22? 
+Telling us the count of formating times
 
 Run the program.
+The program has been ran.
 
 
 *Extra credit:* open main10.py. Add a comment to each line describing what it is doing (a comment follows a pound sign [#]). 
 
 Commit your changes and push them back to the repository. 
 
-Did you do the extra credit?
+Did you do the extra credit? 
+No I did not.
